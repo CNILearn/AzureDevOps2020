@@ -10,7 +10,7 @@
 
 ## Module 3 - Implement & Manage Build Infrastructure
 
-[Configuring a CD pipeline for your Jenkins CI][https://www.azuredevopslabs.com/labs/vstsextend/jenkins/)
+[Configuring a CD pipeline for your Jenkins CI](https://www.azuredevopslabs.com/labs/vstsextend/jenkins/)
 
 [Integrate Your GitHub Projects With Azure Pipelines](https://www.azuredevopslabs.com/labs/azuredevops/github-integration/)
 

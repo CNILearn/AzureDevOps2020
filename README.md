@@ -15,3 +15,5 @@ Azure DevOps Workshop May-2020
 [Lab 6 - Implementing Continuous Feedback](https://github.com/CNILearn/AzureDevOpsMay2020/blob/master/lab06.md)
 
 [Lab 7 - Designing a DevOps Strategy](https://github.com/CNILearn/AzureDevOpsMay2020/blob/master/lab07.md)
+
+[YAML Pipelines](https://www.azuredevopslabs.com/labs/azuredevops/yaml/)

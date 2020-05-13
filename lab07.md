@@ -2,7 +2,7 @@
 
 ## Module 1 - Planning for DevOps
 
-[Agile Planninhg and Portfolio Managment with Azure Boards](https://www.azuredevopslabs.com/labs/azuredevops/agile/)
+[Agile Planning and Portfolio Managment with Azure Boards](https://www.azuredevopslabs.com/labs/azuredevops/agile/)
 
 ## Module 2 - Planning for Quality and Security
 

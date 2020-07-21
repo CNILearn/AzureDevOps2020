@@ -14,9 +14,8 @@
 
 [Integrate Your GitHub Projects With Azure Pipelines](https://www.azuredevopslabs.com/labs/azuredevops/github-integration/)
 
-## Managing Application Config and Secrets
+## Module 4 - Managing Application Config and Secrets
 
 [Driving continuous quality of your code with SonarCloud](https://www.azuredevopslabs.com/labs/vstsextend/sonarcloud/)
 
 [Managing Open-source security and license with WhiteSource](https://www.azuredevopslabs.com/labs/vstsextend/WhiteSource/)
-

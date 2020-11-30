@@ -10,7 +10,15 @@ See Skillpipe
 
 ## Module 2 - Getting Started with Source Control
 
+Try it out (Skillpipe):
+
+* Working with Git Locally
+
 ## Module 3 - Scaling Git for Enterprise DevOps
+
+Try it out (Skillpipe)
+
+* Azure Repos Collaborating with Pull Requests
 
 ## Module 4 - Consolidating Artifacts and Designing a Dependency Management Strategy
 
@@ -39,6 +47,8 @@ See Skillpipe
 [Managing Open-source security and license with WhiteSource](https://www.azuredevopslabs.com/labs/vstsextend/WhiteSource/)
 
 ## Module 10 - Design a Release Strategy
+
+No labs
 
 ## Module 11 - Setup a Release Management Workflow
 
@@ -71,5 +81,15 @@ See Skillpipe
 [Deploy app with Puppet on Azure](http://microsoft.github.io/PartsUnlimitedMRP/iac/200.2x-IaC-DeployappwithPuppetonAzure.html)
 
 [Ansible with Azure](http://microsoft.github.io/PartsUnlimitedMRP/iac/200.2x-IaC-AnsiblewithAzure.html)
+
+## Module 18 - Implement Compliance and Security in your Infrastructure
+
+[Implement Security and Compliance in Azure DevOps pipelines](http://microsoft.github.io/PartsUnlimited/iac/200.2x-IaC-SecurityandComplianceinpipeline.html)
+
+## Module 19 - Recommend and Design System Feedback Mechanism
+
+[Microsoft Teams with Azure DevOps Services (Collaborate, Communicate and Celebrate)](https://azuredevopslabs.com/labs/vstsextend/teams/)
+
+## Module 20 - Optimize Feedback Mechanism
 
 

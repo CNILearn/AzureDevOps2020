@@ -14,6 +14,8 @@ See Skillpipe
 
 ## Module 4 - Consolidating Artifacts and Designing a Dependency Management Strategy
 
+[Package Management with Azure Artifacts](https://www.azuredevopslabs.com/labs/azuredevops/packagemanagement/)
+
 ## Module 5 - Implementing Continuous Integration with Azure Pipelines
 
 [Enabling Continuous Integration with Azure Pipelines](https://www.azuredevopslabs.com/labs/azuredevops/continuousintegration/)

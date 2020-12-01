@@ -15,3 +15,5 @@
 [OWASP Top 10](https://owasp.org/www-project-top-ten/)
 
 [OWASP Quick Reference Guide](https://owasp.org/www-pdf-archive/OWASP_SCP_Quick_Reference_Guide_v2.pdf)
+
+[Micrsoft Threat Modeling Tool](https://www.microsoft.com/en-us/securityengineering/sdl/threatmodeling)

@@ -60,6 +60,8 @@ No labs
 
 [Controlling Deployments using Release Gates](https://azuredevopslabs.com/labs/vstsextend/releasegates/)
 
+**Create a Release Dashboard** - Skillpipe
+
 ## Module 12 - Implement an Appropriate Deployment Pattern
 
 [Feature Flag Management with LaunchDarkly and AzureDevOps](https://www.azuredevopslabs.com/labs/vstsextend/launchdarkly/)

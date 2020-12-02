@@ -54,6 +54,12 @@ No labs
 
 [Configuring CI/CD Pipelines as Code with YAML in Azure DevOps](https://www.azuredevopslabs.com/labs/azuredevops/yaml/)
 
+**Setting up secrets in the pipeline with Azure KeyVault** - Skillpipe
+
+[Automating Selenium Tests in Azure Pipelines](https://www.azuredevopslabs.com/labs/vstsextend/Selenium/)
+
+[Controlling Deployments using Release Gates](https://azuredevopslabs.com/labs/vstsextend/releasegates/)
+
 ## Module 12 - Implement an Appropriate Deployment Pattern
 
 [Feature Flag Management with LaunchDarkly and AzureDevOps](https://www.azuredevopslabs.com/labs/vstsextend/launchdarkly/)
